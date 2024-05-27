@@ -82,6 +82,8 @@ input#isenha{
 }
 
 div.campo >span{
+    display: flexbox;
+    align-items: center center;
     color: white;
     font-size: 2em;
     width: 40px;
